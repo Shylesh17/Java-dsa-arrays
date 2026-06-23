@@ -1,6 +1,6 @@
 //given an array where the selected number should be greater than previous and next number
 
-public class Array4 {
+public class GreatedMidNumber {
 
     public static void main(String[] args){
         int[] arr={1,2,3,4,8,2,1};

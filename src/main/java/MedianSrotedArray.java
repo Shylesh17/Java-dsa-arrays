@@ -1,6 +1,6 @@
 //median of two sorted array
 
-public class Array5 {
+public class MedianSrotedArray {
 
 public static float findmedian(int[] arr1, int[] arr2){
 

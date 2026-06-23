@@ -1,6 +1,6 @@
 import java.util.*;
 //given array contains 0 and 1 , find which is the longest subarray which contains equal 0 and 1
-public class Array6 {
+public class SubArrayWithEqual0and1 {
     public static void main(String[] args){
         int arr[]={1,0,0,1,0,1,1,0,1};
         HashMap<Integer,Integer> map = new HashMap<>();

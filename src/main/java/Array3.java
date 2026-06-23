@@ -1,4 +1,4 @@
-//given array and target , choose two element who sum is = target fi two or more pair is identified
+//given array and target , choose two element who sum is = target if two or more pair is identified
 // then the product must be greater and also the first element is greater than the second  element of result
 
 public class Array3 {

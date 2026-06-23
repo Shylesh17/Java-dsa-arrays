@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class Array7 {
+public class LiftMaxFit {
     public static void main(String[] args) {
         int[] arr={1,2,5,2,1,3,5};
         int cap = 8;
