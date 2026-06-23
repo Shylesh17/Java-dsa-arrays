@@ -8,7 +8,7 @@ public class ConditionalArrayReversal {
         checkarray(arr);
 
     }
-    public static int[]  checkarray(int[] arr){
+    public static int  checkarray(int[] arr){
         int firstsum=0;
         for(int i=0; i<arr.length/2;i++){
             firstsum+=arr[i];
@@ -33,6 +33,6 @@ public class ConditionalArrayReversal {
             System.out.print(Arrays.toString(reversed));
         }
 
-        return reversed;
+        return 0;
     }
 }
