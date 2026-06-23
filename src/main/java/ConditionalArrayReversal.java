@@ -1,6 +1,6 @@
 // if seccond half of the array is greater than first then reverse the array
 
-public class Array1 {
+public class ConditionalArrayReversal {
     public static void main(String[] args) {
         int[] arr = {1, 4, 5, 7, 9, 4, 4};
         checkarray(arr);
@@ -20,6 +20,6 @@ public class Array1 {
         System.out.println("firstsum=" + firstsum);
         System.out.println("secondsum"+ secondsum);
         
-        return -1;
+        return 0;
     }
 }
